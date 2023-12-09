@@ -145,7 +145,7 @@ padding:  1rem 0;
 .header {
     padding: 4rem 0;
     height: 80vh;
-    background: url("./images/banner1.jpg.jpg");
+    background: url("/images/banner1.jpg.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
